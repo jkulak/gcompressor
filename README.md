@@ -1,6 +1,6 @@
 # GCOMPRESSOR
 
-Please have in mind that currently, it's a mock algorithm only - for learning purposes only.
+Please have in mind that currently, it's a mock algorithm, reversing the string - for learning purposes only.
 
 ## Resources
 
